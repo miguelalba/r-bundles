@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/de.bund.bfr.knime.fsklab.features.ext.r.bin.x64_3.4.4.qualifier.jar" id="de.bund.bfr.knime.fsklab.features.ext.r.bin.x64" version="3.4.4.qualifier">
+      <category name="rbundle"/>
+   </feature>
+   <feature url="features/de.bund.bfr.knime.fsklab.features.ext.r.bin.x86_3.4.4.qualifier.jar" id="de.bund.bfr.knime.fsklab.features.ext.r.bin.x86" version="3.4.4.qualifier">
+      <category name="rbundle"/>
+   </feature>
+   <category-def name="rbundle" label="R bundles">
+      <description>
+         Bundles including a working R environments that works off the shelf.
+      </description>
+   </category-def>
+</site>

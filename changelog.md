@@ -5,6 +5,9 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
+- Fix update site project. The update site needs to be created through File
+export > Deployable features. The features exported must be sorted under the
+category provided in the file *category.xml*.
 
 ## v0.0.1 - 2018-08-07
 
