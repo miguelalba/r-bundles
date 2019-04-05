@@ -5,4 +5,3 @@ Bundle-SymbolicName: de.bund.bfr.binary.r.win32.x86
 Bundle-Version: 3.4.4.qualifier
 Bundle-Vendor: German Federal Institute for Risk Assessment (BfR)
 Automatic-Module-Name: de.bund.bfr.binary.r.win32.x86
-Bundle-RequiredExecutionEnvironment: JavaSE-1.7
